@@ -1,4 +1,9 @@
-/*  your css code here. If applicable */
+
+
+ body {
+	margin: 0;
+	overflow: hidden;
+        }
 #line{
 height:2px;
 width:200px;
